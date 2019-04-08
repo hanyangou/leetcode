@@ -9,7 +9,7 @@ class MergeTwoSortedLists {
   }
 
   @tailrec
-  def helper(l1 : ListNode, l2 : ListNode, head : ListNode = null, tail : ListNode = null) : ListNode = {
+  final def helper(l1 : ListNode, l2 : ListNode, head : ListNode = null, tail : ListNode = null) : ListNode = {
     if(l1 == null) {
       if(tail == null) l2
       else {
