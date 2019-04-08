@@ -1,3 +1,5 @@
+package leetcode
+
 //268 missing number
 class MissingNumber {
   def solution(nums : Array[Int]) : Int = {

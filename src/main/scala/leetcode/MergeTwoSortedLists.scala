@@ -1,4 +1,7 @@
+package leetcode
+
 import datastructure.ListNode
+
 import scala.annotation.tailrec
 //21. Merge Two Sorted Lists
 class MergeTwoSortedLists {

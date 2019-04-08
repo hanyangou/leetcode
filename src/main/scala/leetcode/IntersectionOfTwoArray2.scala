@@ -1,3 +1,5 @@
+package leetcode
+
 import scala.collection.mutable.ListBuffer
 //350 Intersection of Two Arrays II
 class IntersectionOfTwoArray2 {

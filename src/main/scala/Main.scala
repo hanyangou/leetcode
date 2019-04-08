@@ -1,3 +1,5 @@
+import leetcode.IntersectionOfTwoArray2
+
 object Main {
   def main(args: Array[String]) : Unit = {
     val arr = List("apple", "orange", "apple", "dog", "dog", "dog", "dog")
